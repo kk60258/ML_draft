@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/nineg/PycharmProjects/MNIST_1/tmp/tfsaver1/model.ckpt-100"
+all_model_checkpoint_paths: "/home/nineg/PycharmProjects/MNIST_1/tmp/tfsaver1/model.ckpt-50"
+all_model_checkpoint_paths: "/home/nineg/PycharmProjects/MNIST_1/tmp/tfsaver1/model.ckpt-100"
